@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NIT3213 App</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome</string>
+    <string name="login_subtitle">Sign in with your student credentials</string>
+    <string name="hint_username">Username (student ID)</string>
+    <string name="hint_password">Password (first name)</string>
+    <string name="action_login">Login</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="content_desc_item">Entity item</string>
+
+    <!-- Details -->
+    <string name="details_title">Details</string>
+    <string name="label_architect">Architect</string>
+    <string name="label_location">Location</string>
+    <string name="label_year">Year completed</string>
+    <string name="label_style">Style</string>
+    <string name="label_height">Height</string>
+    <string name="label_description">Description</string>
+    <string name="height_metres">%1$d m</string>
+    <string name="back">Back</string>
+
+    <plurals name="items_found">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+</resources>
